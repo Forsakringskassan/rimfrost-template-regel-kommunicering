@@ -1,0 +1,1 @@
+# rimfrost-template-regel-kommunicering
