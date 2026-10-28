@@ -1,0 +1,35 @@
+uppgift:
+  id: c69c1c7c-30f0-45ee-886c-29da18488599
+  version: 1
+  # TODO: Change path to match path in RegelController
+  path: /regel/regel-template-kommunicering
+  aktivitet: "Kommunicering regel-template"
+
+specifikation:
+  id: df6a82af-d6e1-4632-a37a-d3c6a0a05b1a
+  version: 1
+  namn: "TestUppgiftNamn"
+  uppgiftbeskrivning: "TestUppgiftBeskrivning"
+  verksamhetslogik: C
+  roll: ANSVARIG_HANDLAGGARE
+  applikationsId: 3.5.1
+  applikationsversion: regel-template_1.0
+
+regel:
+  id: 35721044-313d-4fde-8b65-e114c8f5eeac
+  version: 1
+  namn: "Regel namn"
+  beskrivning: "Regel beskrivning"
+
+lagrum:
+  id: 9895f662-a3fb-4c49-a3a7-3f6161888b50
+  version: 1
+  giltigFom: "2010-02-11"
+  forfattning: "Lagrum författning"
+  kapitel: 3
+  paragraf: 5
+  stycke: 1
+  punkt: 4
+
+utokadUppgiftsbeskrivning:
+  beskrivning: "TestUtokadUppgiftsbeskrivning"
