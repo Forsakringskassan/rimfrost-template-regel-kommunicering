@@ -1,0 +1,35 @@
+uppgift:
+  id: 2968a063-0a0c-48d7-8db8-1ea4365883e4
+  version: 1
+  # TODO: Change path to match path in RegelController
+  path: /regel/regel-template-kommunicering
+  aktivitet: "Kommunicering regel-template"
+
+specifikation:
+  id: 57c353e8-272b-47c5-9106-66b77ee9a5f4
+  version: 1
+  namn: "Kommunicera med kund"
+  uppgiftbeskrivning: "Hantera kommunicering från kund"
+  verksamhetslogik: C
+  roll: ANSVARIG_HANDLAGGARE
+  applikationsId: 3.5.1
+  applikationsversion: regel-template_1.0
+
+regel:
+  id: 36b8dd33-511d-423e-864f-0bbc7e275ee8
+  version: 1
+  namn: "Bekräftande av utskickad information"
+  beskrivning: "Kommunicera med kund och hantera dess bekräftande eller överklagande på utskickad information"
+
+lagrum:
+  id: e27e55e3-be02-42cf-94a0-11e5db254a1b
+  version: 1
+  giltigFom: "2010-02-11"
+  forfattning: "Husdjursbalken"
+  kapitel: 3
+  paragraf: 5
+  stycke: 1
+  punkt: 4
+
+utokadUppgiftsbeskrivning:
+  beskrivning: "Hantera kommunicering från kund om utskickad information"
