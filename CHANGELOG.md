@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-template-regel-kommunicering.
 
+## 0.0.2 (2026-11-10)
+
+### Bug Fixes
+
+-  Replace .github workflows ([aa4b5](https://github.com/Forsakringskassan/rimfrost-template-regel-kommunicering/commit/aa4b50478dd05e3) Lars Persson)  
+
 ## 0.0.1 (2026-11-10)
 
 ### Features
