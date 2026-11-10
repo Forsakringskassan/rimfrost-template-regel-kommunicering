@@ -2,6 +2,12 @@
 
 Changelog of rimfrost-template-regel-kommunicering.
 
+## 0.0.3 (2026-11-10)
+
+### Bug Fixes
+
+-  Use correct artifact id for template ([2b44a](https://github.com/Forsakringskassan/rimfrost-template-regel-kommunicering/commit/2b44afad948d38d) Lars Persson)  
+
 ## 0.0.2 (2026-11-10)
 
 ### Bug Fixes
