@@ -9,7 +9,7 @@
   </parent>
 
   <groupId>se.fk.rimfrost</groupId>
-  <artifactId>rimfrost-regel-kommunicering</artifactId>
+  <artifactId>rimfrost-template-regel-kommunicering</artifactId>
   <version>1.0.0-SNAPSHOT</version>
 
   <properties>
