@@ -1,0 +1,1 @@
+DROP TABLE regel_template_kommunicering_process_topic_info;
